@@ -1,7 +1,7 @@
 int main () {
 
 	printf("amit 2022");
-	printf("kikzaya");
+	printf("kikzayaa");
 	
 return 0 ; 	
 
